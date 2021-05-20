@@ -1,1 +1,1 @@
-# djang-react-twitter-app
+# django-react-twitter-app
